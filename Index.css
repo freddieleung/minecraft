@@ -1,0 +1,22 @@
+.title{
+    font-family: 'Times New Roman', Times, serif, Impact, 
+     'Arial Narrow Bold', sans-serif, underline;
+     color: black;
+}
+
+.main{
+    color:lightgray;
+    font-family: 'Arial Narrow Bold' , inherit;
+}
+
+html{
+    background-image:url("78c8d1962cd9ade2be59a35fdd9c8c1e.jpg");
+    background-size:1092px 2200px;
+    font-size: 25px;
+}
+
+.End{
+    font-size: 40px
+}
+
+
